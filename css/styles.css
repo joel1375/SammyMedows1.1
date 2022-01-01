@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  background-color: #EAEAEA;
+}
+
+.one {
+  background: #EAEAEA;
+}
+.two {
+  text-align: center;
+}
+.textcenter {
+  text-align: center;
+}
+
+.profilepicture {
+  width: 100%;
+}
+
+.twitchicon {
+  width: 80%;
+}
